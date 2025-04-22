@@ -1,0 +1,14 @@
+# Core
+streamlit
+streamlit-modal
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+fpdf
+joblib
+mlxtend
+
+
+

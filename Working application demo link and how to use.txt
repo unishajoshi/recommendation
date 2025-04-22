@@ -1,0 +1,9 @@
+To run this application
+
+1. Install dependencies
+2. Run app: streamlit run recommender_user_interface.py
+3. Make sure all .py modules are in the same directory
+
+
+Please use the link below for demo of full working application
+https://youtu.be/Y5QUes8ErIk

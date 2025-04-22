@@ -1,0 +1,528 @@
+[2025-04-17 02:37:04] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:37:04] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:37:04] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:37:04] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:37:05] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:37:05] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:37:05] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:37:05] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:37:06] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:37:14] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:37:14] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:37:14] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:37:14] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:37:15] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:37:15] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:37:15] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:37:15] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:37:16] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:37:17] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:37:17] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:37:17] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:37:17] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:37:17] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:37:17] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:37:17] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:37:17] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:37:18] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:37:19] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:37:19] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:37:19] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:37:19] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:37:19] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:37:20] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:37:20] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:37:20] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:37:20] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:37:20] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:37:20] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:37:20] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:37:20] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:37:21] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:37:22] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:37:22] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:37:22] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:37:22] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:37:23] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:37:23] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:37:23] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:37:23] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:37:23] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:37:23] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:37:24] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:37:24] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:37:24] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:37:24] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:37:25] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:37:26] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:37:26] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:37:26] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:37:26] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:37:26] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:37:26] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:37:26] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:37:27] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:37:27] Data Cleaning - SUCCESS: Options: ['Drop missing CustomerID or Description', 'Convert InvoiceDate to datetime', 'Filter Quantity and UnitPrice > 0', "Remove canceled transactions (InvoiceNo starts with 'C')", 'Clean Description text', 'Convert CustomerID to string']
+[2025-04-17 02:37:27] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:37:30] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:37:30] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:37:30] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:37:30] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:37:31] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:37:31] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:37:31] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:37:31] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:40:07] Association Rules - SUCCESS: 2548 rules generated.
+[2025-04-17 02:40:09] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:40:32] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:40:32] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:40:32] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:40:32] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:40:33] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:40:33] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:40:33] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:40:33] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:40:34] Similarity Matrix - SUCCESS: Shape: (3896, 3896)
+[2025-04-17 02:40:36] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:41:26] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:41:26] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:41:26] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:41:26] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:41:26] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:41:26] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:41:26] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:41:27] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:41:31] Report Export - SUCCESS: Report saved as retail_report.pdf
+[2025-04-17 02:41:33] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:41:33] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:41:33] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:41:33] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:41:33] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:41:33] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:41:33] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:41:34] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:41:36] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:41:37] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:41:37] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:41:37] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:41:37] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:41:38] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:41:38] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:41:38] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:41:38] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:41:40] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:41:55] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:41:55] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:41:55] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:41:55] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:41:55] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:41:55] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:41:55] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:41:56] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:41:56] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:42:11] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:42:11] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:42:11] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:42:11] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:42:11] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:42:11] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:42:11] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:42:11] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:42:12] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:42:23] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:42:23] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:42:23] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:42:24] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:42:24] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:42:24] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:42:24] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:42:24] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:42:25] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:42:30] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:42:30] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:42:30] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:42:30] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:42:30] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:42:31] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:42:31] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:42:31] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:42:31] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:42:34] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:42:34] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:42:34] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:42:34] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:42:34] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:42:34] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:42:35] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:42:35] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:42:36] Report Export - SUCCESS: Report saved as retail_report.pdf
+[2025-04-17 02:42:40] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:42:40] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:42:40] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:42:40] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:42:40] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:42:40] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:42:40] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:42:41] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:42:41] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:42:46] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:42:46] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:42:46] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:42:46] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:42:46] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:42:46] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:42:46] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:42:47] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:42:48] Report Export - SUCCESS: Report saved as retail_report.pdf
+[2025-04-17 02:42:49] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:42:49] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:42:49] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:42:49] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:42:49] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:42:49] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:42:49] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:42:50] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:42:50] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:42:53] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:42:53] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:42:53] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:42:53] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:42:53] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:42:53] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:42:53] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:42:54] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:42:54] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:43:00] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:43:00] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:43:00] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:43:00] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:43:01] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:43:01] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:43:01] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:43:01] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:43:02] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:43:05] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:43:05] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:43:05] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:43:05] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:43:05] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:43:05] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:43:05] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:43:06] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:43:06] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:43:17] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:43:17] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:43:17] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:43:17] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:43:17] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:43:17] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:43:17] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:43:18] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:43:18] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:43:23] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:43:23] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:43:23] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:43:23] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:43:24] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:43:24] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:43:24] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:43:24] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:43:25] Similarity Matrix - SUCCESS: Shape: (3896, 3896)
+[2025-04-17 02:43:26] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:43:33] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:43:33] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:43:33] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:43:33] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:43:33] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:43:33] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:43:33] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:43:34] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:43:37] Report Export - SUCCESS: Report saved as retail_report.pdf
+[2025-04-17 02:43:41] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:43:41] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:43:41] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:43:41] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:43:41] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:43:41] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:43:42] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:43:42] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:43:43] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:43:45] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:43:45] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:43:45] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:43:45] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:43:46] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:43:46] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:43:46] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:43:46] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:43:48] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:48:32] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:48:32] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:48:32] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:48:32] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:48:32] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:48:32] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:48:32] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:48:33] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:48:33] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:48:50] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:48:50] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:48:50] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:48:50] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:48:51] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:48:51] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:48:51] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:48:51] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:48:51] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:48:51] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:48:51] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:48:52] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:48:52] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:48:52] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:48:52] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:48:52] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:48:53] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:48:53] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:48:53] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:48:53] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:48:53] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:48:54] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:48:54] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:48:54] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:48:54] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:48:54] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:48:54] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:48:55] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:48:55] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:48:55] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:48:55] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:48:55] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:48:55] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:48:56] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:48:56] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:48:56] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:48:56] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:48:56] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:48:57] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:48:57] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:48:57] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:48:57] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:48:57] Data Cleaning - SUCCESS: Options: ['Drop missing CustomerID or Description', 'Filter Quantity and UnitPrice > 0', 'Convert InvoiceDate to datetime', 'Convert CustomerID to string', "Remove canceled transactions (InvoiceNo starts with 'C')", 'Clean Description text']
+[2025-04-17 02:48:58] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:49:28] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:49:28] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:49:28] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:49:29] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:49:29] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:49:29] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:49:29] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:49:29] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:52:12] Association Rules - SUCCESS: 2548 rules generated.
+[2025-04-17 02:52:13] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:52:44] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:52:44] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:52:44] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:52:44] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:52:45] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:52:45] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:52:45] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:52:45] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:52:46] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:52:48] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:52:48] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:52:48] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:52:48] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:52:48] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:52:48] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:52:48] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:52:49] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:52:49] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:53:12] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:53:12] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:53:12] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:53:12] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:53:12] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:53:12] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:53:12] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:53:13] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:53:13] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:53:49] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:53:49] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:53:50] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:53:50] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:53:50] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:53:50] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:53:50] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:53:50] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:53:51] Similarity Matrix - SUCCESS: Shape: (3896, 3896)
+[2025-04-17 02:53:53] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:54:07] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:54:07] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:54:07] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:54:07] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:54:07] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:54:08] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:54:08] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:54:08] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:54:10] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:54:46] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:54:46] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:54:46] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:54:46] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:54:46] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:54:46] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:54:47] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:54:47] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:54:51] Report Export - SUCCESS: Report saved as retail_report.pdf
+[2025-04-17 02:54:54] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:54:54] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:54:54] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:54:54] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:54:54] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:54:54] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:54:55] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:54:55] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:54:57] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 02:56:23] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 02:56:23] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 02:56:23] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 02:56:23] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 02:56:23] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 02:56:23] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 02:56:23] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 02:56:24] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 02:56:26] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 19:12:30] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 19:12:30] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 19:12:31] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 19:12:31] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 19:12:32] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 19:12:32] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 19:12:33] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 19:12:34] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 19:12:36] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 19:12:41] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 19:12:41] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 19:12:42] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 19:12:42] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 19:12:42] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 19:12:43] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 19:12:43] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 19:12:45] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 19:12:48] Report Export - SUCCESS: Report saved as retail_report.pdf
+[2025-04-17 19:13:59] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 19:13:59] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 19:13:59] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 19:13:59] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 19:14:00] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 19:14:01] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 19:14:01] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 19:14:02] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 19:14:06] Similarity Matrix - SUCCESS: Shape: (3896, 3896)
+[2025-04-17 19:14:11] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-17 19:14:15] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 19:14:15] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 19:14:15] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 19:14:15] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 19:14:16] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 19:14:16] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 19:14:17] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 19:14:18] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 19:14:28] Report Export - SUCCESS: Report saved as retail_report.pdf
+[2025-04-17 19:14:31] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 19:14:31] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 19:14:31] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 19:14:31] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 19:14:32] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 19:14:33] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 19:14:33] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 19:14:34] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 19:14:40] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-17 19:14:40] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-17 19:14:40] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-17 19:14:40] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-17 19:14:41] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-17 19:14:41] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-17 19:14:42] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-17 19:14:43] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-17 19:14:48] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-20 23:29:32] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-20 23:29:32] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-20 23:29:33] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-20 23:29:33] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-20 23:29:33] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-20 23:29:33] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-20 23:29:34] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-20 23:29:35] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-20 23:29:35] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-20 23:29:48] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-20 23:29:48] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-20 23:29:50] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-20 23:29:50] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-20 23:29:55] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-20 23:29:55] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-20 23:29:55] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-20 23:29:55] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-20 23:29:55] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-20 23:29:56] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-20 23:29:57] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-20 23:29:58] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-20 23:29:58] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-20 23:29:59] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-20 23:29:59] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-20 23:29:59] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-20 23:30:00] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-20 23:30:00] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-20 23:30:01] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-20 23:30:03] Data Cleaning - SUCCESS: Options: ['Convert InvoiceDate to datetime', 'Convert CustomerID to string', 'Drop missing CustomerID or Description', "Remove canceled transactions (InvoiceNo starts with 'C')", 'Filter Quantity and UnitPrice > 0', 'Clean Description text']
+[2025-04-20 23:30:05] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-20 23:30:05] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-20 23:30:05] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-20 23:30:06] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-20 23:30:06] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-20 23:30:07] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-20 23:30:07] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-20 23:30:08] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-20 23:30:10] Data Cleaning - SUCCESS: Options: ['Convert InvoiceDate to datetime', 'Convert CustomerID to string', 'Drop missing CustomerID or Description', "Remove canceled transactions (InvoiceNo starts with 'C')", 'Filter Quantity and UnitPrice > 0', 'Clean Description text']
+[2025-04-20 23:30:13] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-20 23:30:13] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-20 23:30:13] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-20 23:30:13] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-20 23:30:14] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-20 23:30:15] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-20 23:30:15] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-20 23:30:17] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-20 23:32:16] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-20 23:32:16] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-20 23:32:16] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-20 23:32:16] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-20 23:32:18] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-20 23:32:20] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-20 23:32:21] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-20 23:32:24] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-20 23:32:28] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-20 23:32:32] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-20 23:32:32] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-20 23:32:32] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-20 23:32:32] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-20 23:32:33] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-20 23:32:34] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-20 23:32:34] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-20 23:32:35] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-21 23:10:53] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-21 23:10:53] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-21 23:10:54] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-21 23:10:54] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-21 23:10:54] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-21 23:10:54] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-21 23:10:55] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-21 23:10:55] Visualization - SUCCESS: Daily orders plot rendered.
+[2025-04-21 23:10:56] Report Export - Fail: Failed to save report as retail_report.pdf
+[2025-04-21 23:10:59] Data Load - SUCCESS: Loaded from uploaded file.
+[2025-04-21 23:10:59] Data Preview - SHOWN: Displayed first 5 rows.
+[2025-04-21 23:10:59] Data Exploration - SHOWN: Displayed info summary.
+[2025-04-21 23:11:00] Data Exploration - SHOWN: Displayed missing values.
+[2025-04-21 23:11:00] Data Exploration - SHOWN: Displayed descriptive statistics.
+[2025-04-21 23:11:00] Visualization - SUCCESS: Top products plot rendered.
+[2025-04-21 23:11:00] Visualization - SUCCESS: Top countries plot rendered.
+[2025-04-21 23:11:01] Visualization - SUCCESS: Daily orders plot rendered.
