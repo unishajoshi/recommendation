@@ -1,8 +1,9 @@
 # Retail Store Data Explorer & Recommender System
 
-This Streamlit app lets you upload and explore retail data, clean it, see useful charts, get product recommendations, and download a report
+
 
 ## Features
+This Streamlit app lets you upload and explore retail data, clean it, see useful charts, get product recommendations, and download a report. The key features of this application are was follows:
 
 - Upload data from file or URL
 - Data exploration (info, missing values, summary stats)
@@ -30,7 +31,7 @@ This Streamlit app lets you upload and explore retail data, clean it, see useful
 
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/unishajoshi/deep-fake-detection.git
+git clone https://github.com/unishajoshi/recommendation.git
 cd deep-fake-detection
 pip install -r requirements.txt
 ```
