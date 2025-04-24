@@ -51,7 +51,7 @@ http://localhost:8501/
 ## Sample Dataset
 
 You can test the app using the UCI Online Retail Dataset:
-- [Online Retail CSV](https://archive.ics.uci.edu/static/public/352/data.csv)
+- "Online Retail.CSV"
 
 Make sure to convert Excel to CSV if needed.
 
